@@ -1,0 +1,1 @@
+# Resimler klasörünün içinde
