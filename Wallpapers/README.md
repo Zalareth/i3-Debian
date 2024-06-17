@@ -1,1 +1,1 @@
-# Resimler klasörünün içinde
+# Resimler klasörünün içinde /home/beru/Resimler/Wallpapers
