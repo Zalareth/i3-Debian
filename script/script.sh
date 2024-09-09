@@ -63,9 +63,5 @@ if [ ! -d "~/Belgeler" ]; then
   mkdir -p ~/Belgeler
 fi
 
-# GitHub deposunu indirme
-echo "GitHub deposu indiriliyor: https://github.com/Ogeday1915/i3-Debian.git"
-git clone https://github.com/Ogeday1915/i3-Debian.git ~/Belgeler/i3-Debian
-
 # Kurulum tamamlandı mesajı
 echo "Kurulum tamamlandı!"
